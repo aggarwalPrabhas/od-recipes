@@ -7,6 +7,23 @@ body {
   padding: 0;
 }
 
+.home {
+  width: 9rem;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: bisque;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: skyblue;
+}
+
 h1 {
   text-align: center;
   font-size: 4rem;
