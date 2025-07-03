@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  font-size: 5rem;
+  width: 70vw;
+  background-color: bisque;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2rem;
+  text-transform: uppercase;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+section {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.list {
+  /* background-color: beige; */
+  list-style-type: none;
+}
+
+li {
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+  padding: 1rem;
+  /* border: 1px solid black; */
+  /* width: 5em; */
+}
+a {
+  text-decoration: none;
+}
